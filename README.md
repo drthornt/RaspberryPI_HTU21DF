@@ -3,7 +3,7 @@ RaspberryPI_HTU21DF
 This is a python driver to use with Adafruit's HTU21D-F breakout board.
 https://www.adafruit.com/product/1899
 
-This driver requires the pigpio library, available at http://abyz.co.uk/rpi/pigpio/index.html
+This driver requires the pigpio library, available at http://abyz.me.uk/rpi/pigpio/
 
 To install this library please navagate to its folder and sudo python HTU21DF.py install
 
